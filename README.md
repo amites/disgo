@@ -1,5 +1,7 @@
 # disgo
 
+Welcome to the disgo repo!
+
 # Setup
 
  - Install [protoc](https://github.com/google/protobuf/releases) compiler manually or by homebrew `$ brew install protobuf`
